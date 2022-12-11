@@ -1,4 +1,4 @@
-<h1 align="center">olá, me chamo Carlos Eduardo!</h1>
+<h1 align="center">Olá, me chamo Carlos Eduardo!</h1>
 <h2 align="center">Futuro desenvolvedor front-end</h2>
 <h3>Atualmente estudando e aprimorando meu JavaScript.</h3>
 - Veja meu ultimo projeto circleGames: https://carloseduarddev.github.io/circleGames/
