@@ -13,6 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosEduardDev&show_icons=true&theme=synthwave)
 <br>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardDev&layout=compact&theme=dracula)
 <h3> Eai, vamos trabalhar juntos? </h3>
 
 <p> 
