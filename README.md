@@ -1,6 +1,6 @@
 <h1> Olá, me chamo Carlos Eduardo</h1>
 <h2> Sobre mim</h2>
-<p>Sou um desenvolvedor front-end junior, que ama desenvolver aplicações web. Procuro uma oportunidade na área, atualmente estou estudando e aprimorando meus conhecimentos em JavaScript.</p>
+<p>Sou um desenvolvedor front-end, que ama desenvolver aplicações web com foco em React.js</p>
 <h2>Competente em:</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
